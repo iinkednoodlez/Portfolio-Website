@@ -57,3 +57,16 @@ li {
 .project-card:hover {
   transform: translateY(-5px);
 }
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(2, 2, 2);
+  transition: 0.3s;
+}
+
+a:visited {
+  color: rgb(155, 245, 250);
+}
